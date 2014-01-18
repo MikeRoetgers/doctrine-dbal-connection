@@ -1,5 +1,5 @@
 {
-    "name": "MikeRoetgers/doctrine-dbal-connection",
+    "name": "mike-roetgers/doctrine-dbal-connection",
     "type": "library",
     "description": "DBAL connection object with some additional fetch methods",
     "keywords": ["doctrine","dbal","connection"],
